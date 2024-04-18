@@ -3,7 +3,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-rodrigo-a17748296/) [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CaioRodrigo249)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea)](https://skillicons.dev)
 
 
 
